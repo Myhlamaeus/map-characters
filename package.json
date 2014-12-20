@@ -1,0 +1,19 @@
+{
+  "name": "map-characters",
+  "version": "0.1.0",
+  "description": "map-characters\r ==============",
+  "main": "map-characters.es6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ileri/map-characters.git"
+  },
+  "author": "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ileri/map-characters/issues"
+  },
+  "homepage": "https://github.com/ileri/map-characters"
+}
