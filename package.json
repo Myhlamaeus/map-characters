@@ -1,6 +1,6 @@
 {
   "name": "map-characters",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "map-characters\r ==============",
   "main": "map-characters.es6",
   "scripts": {
