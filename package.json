@@ -27,5 +27,8 @@
   "scripts": {
     "build": "grunt build:cjs",
     "test": "grunt test"
+  },
+  "dependencies": {
+    "map-to-properties": "^0.2.0"
   }
 }

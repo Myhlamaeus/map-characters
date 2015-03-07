@@ -1,4 +1,4 @@
-import mapToProperties from "./bower_components/map-to-properties/map-to-properties.es6";
+import mapToProperties from "map-to-properties";
 
 export default function mapCharacters(string, object) {
     if(typeof(sring) !== "string") {
