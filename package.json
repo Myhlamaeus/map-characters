@@ -1,19 +1,19 @@
 {
   "name": "map-characters",
-  "version": "0.1.1",
   "description": "map-characters\r ==============",
-  "main": "map-characters.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.1.1",
+  "author": "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ileri/map-characters/issues"
   },
+  "homepage": "https://github.com/ileri/map-characters",
+  "license": "GPL-3.0",
+  "main": "map-characters.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ileri/map-characters.git"
   },
-  "author": "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/ileri/map-characters/issues"
-  },
-  "homepage": "https://github.com/ileri/map-characters"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
