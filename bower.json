@@ -5,7 +5,7 @@
   "authors": [
     "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>"
   ],
-  "main": "map-characters.es6",
+  "main": "map-characters.js",
   "moduleType": [
     "es6"
   ],

@@ -2,7 +2,7 @@
   "name": "map-characters",
   "version": "0.1.1",
   "description": "map-characters\r ==============",
-  "main": "map-characters.es6",
+  "main": "map-characters.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
