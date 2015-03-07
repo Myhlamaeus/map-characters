@@ -1,10 +1,10 @@
 import mapToProperties from "./bower_components/map-to-properties/map-to-properties.es6";
 
 export default function mapCharacters(string, object) {
-    if(!typeof(sring) === "string") {
+    if(typeof(sring) !== "string") {
         throw new TypeError("mapCharacters: expects argument 0 to be a string");
     }
-    if(!typeof(object) === "object") {
+    if(typeof(object) !== "object") {
         throw new TypeError("mapCharacters: expects argument 1 to be an object");
     }
 
@@ -14,4 +14,4 @@ export default function mapCharacters(string, object) {
         return mapped.implode("");
     }
     return undefined;
-};
+}
