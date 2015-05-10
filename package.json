@@ -1,6 +1,6 @@
 {
   "name": "map-characters",
-  "description": "map-characters\r ==============",
+  "description": "Map string characters to properties of an object",
   "version": "0.2.2",
   "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
   "bugs": {

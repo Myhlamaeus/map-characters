@@ -2,6 +2,7 @@
   "name": "map-characters",
   "version": "0.2.2",
   "homepage": "https://github.com/ileri/map-characters",
+  "description": "Map string characters to properties of an object",
   "authors": [
     "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
   ],
