@@ -7,7 +7,7 @@
     "url": "https://github.com/ileri/map-characters/issues"
   },
   "dependencies": {
-    "map-to-properties": "^0.2.0"
+    "map-to-properties": "^0.3.0"
   },
   "devDependencies": {
     "babel": "^5.2.17",
