@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ileri/map-characters",
   "license": "MIT",
-  "main": "dist/cjs.js",
+  "main": "dist/map-characters.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ileri/map-characters.git"
