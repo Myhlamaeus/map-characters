@@ -1,7 +1,7 @@
 import mapToProperties from 'map-to-properties'
 
 export default function mapCharacters (string, object) {
-  if (typeof sring !== 'string') {
+  if (typeof string !== 'string') {
     throw new TypeError('mapCharacters: expects argument 0 to be a string')
   }
   if (typeof object !== 'object') {
