@@ -3,7 +3,7 @@
   "version": "0.2.2",
   "homepage": "https://github.com/ileri/map-characters",
   "authors": [
-    "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>"
+    "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
   ],
   "main": "map-characters.js",
   "moduleType": [
