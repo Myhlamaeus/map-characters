@@ -1,1 +1,1 @@
-# map-characters [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+# map-characters [![Code Climate](https://codeclimate.com/github/ileri/map-characters/badges/gpa.svg)](https://codeclimate.com/github/ileri/map-characters) [![Build Status](https://travis-ci.org/ileri/map-characters.svg)](https://travis-ci.org/ileri/map-characters) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
