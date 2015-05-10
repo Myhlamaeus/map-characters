@@ -1,6 +1,6 @@
 {
   "name": "map-characters",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "homepage": "https://github.com/ileri/map-characters",
   "description": "Map string characters to properties of an object",
   "authors": [
